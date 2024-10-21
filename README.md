@@ -1,0 +1,2 @@
+# .github
+ogrenilen profil deposu
